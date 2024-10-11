@@ -66,6 +66,8 @@ submitButton.addEventListener('click',(e) =>{
 
 document.addEventListener('DOMContentLoaded',() =>{
     startTimer();
-    
+
     timer.textContent = `${count}`
 })
+
+
